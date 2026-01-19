@@ -19,7 +19,7 @@ Converts MIDI files to colored visualizations by mapping musical notes to the vi
 
 ## Example Output
 
-![All Tracks Visualization](Plots/all_tracks_notes_plot.png)
+<img src="Plots/all_tracks_notes_plot.png" width="600">
 
 *All instrument tracks stacked vertically, showing the full composition with colors representing pitch.*
 
