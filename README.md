@@ -12,14 +12,22 @@ Converts MIDI files to colored visualizations by mapping musical notes to the vi
 
 ## Files
 
-- `midi_to_csn.ipynb` - Main notebook (run this!)
+- `midi_to_csv.ipynb` - Main notebook (run this!)
 - `example_converted.csv` - MIDI file in CSV format
 - `dataframe.csv` - Processed note data
+- `Plots/` - Generated visualization files
+
+## Example Output
+
+![All Tracks Visualization](Plots/all_tracks_notes_plot.png)
+
+*All instrument tracks stacked vertically, showing the full composition with colors representing pitch.*
 
 ## Quick Start
 
-1. Open Jupyter: `jupyter notebook midi_to_csn.ipynb`
-2. Run all cells
-3. Get colored PNG visualizations!
+1. Install dependencies: `pip install py_midicsv pandas matplotlib`
+2. Open Jupyter: `jupyter notebook midi_to_csv.ipynb`
+3. Run all cells
+4. Find your visualizations in the `Plots/` folder!
 
 That's it!
