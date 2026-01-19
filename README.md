@@ -1,4 +1,4 @@
-# ColouredMusic (Simple Version)
+# ColouredMusic
 
 Turn MIDI songs into colorful visualizations.
 
